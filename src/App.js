@@ -9,12 +9,14 @@ import Footer from "./components/Footer";
 // import resumeData from "./resumeData";
 import "./App.css";
 import Sidenav from "./components/Sidenav";
+import Main from "./components/Main";
 
 function App() {
   return (
 <>
       <Sidenav />
       {/* <Navbar /> */}
+      <Main />
       <About />
       <Portfolio />
       {/* Add education here */}

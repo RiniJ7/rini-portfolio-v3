@@ -12,16 +12,16 @@ import Sidenav from "./components/Sidenav";
 
 function App() {
   return (
-    <div className="App">
+<>
       <Sidenav />
-      <Navbar />
+      {/* <Navbar /> */}
       <About />
       <Portfolio />
       {/* Add education here */}
       <Testimonials />
       <ContactUs />
       <Footer />
-    </div>
+    </>
   );
 }
 

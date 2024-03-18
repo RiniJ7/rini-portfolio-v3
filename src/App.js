@@ -8,10 +8,12 @@ import ContactUs from "./components/ContactUs";
 import Footer from "./components/Footer";
 // import resumeData from "./resumeData";
 import "./App.css";
+import Sidenav from "./components/Sidenav";
 
 function App() {
   return (
     <div className="App">
+      <Sidenav />
       <Navbar />
       <About />
       <Portfolio />

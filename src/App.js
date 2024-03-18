@@ -8,21 +8,24 @@ import ContactUs from "./components/ContactUs";
 import Footer from "./components/Footer";
 // import resumeData from "./resumeData";
 import "./App.css";
+
 import Sidenav from "./components/Sidenav";
 import Main from "./components/Main";
+import Experience from "./components/Experience";
 
 function App() {
   return (
 <>
       <Sidenav />
-      {/* <Navbar /> */}
       <Main />
+      <Experience />
       <About />
       <Portfolio />
       {/* Add education here */}
       <Testimonials />
       <ContactUs />
       <Footer />
+
     </>
   );
 }

@@ -66,15 +66,13 @@ const Main = () => {
               />
             </div>
             <div className="mt-4 flex justify-between pt-6 w-full text-white-500">
-            <p className="text-base sm:text-lg md:text-xl lg:text-xl md:pb-4 lg:pb-6">
-          I'm a passionate Full Stack Developer with a decade of experience in
-          Operational Finance and additional training in UX design. Committed
-          to creating user-friendly, scalable web applications and writing
-          clean, maintainable code. Actively volunteering at IncluCity
-          Calgary, improving tech products for organizations like YWCA and
-          City Of Calgary. Seeking new opportunities in Full Stack, Front End,
-          and Back End Development. Let's connect and build together!
-        </p>
+              <p className="text-base sm:text-lg md:text-xl lg:text-xl sm:pb-4 md:pb-4 lg:pb-6">
+                I'm a passionate Full Stack Developer with a Google UX design certification. Committed to crafting intuitive, scalable web apps
+                with clean code. Actively volunteering at IncluCity Calgary to
+                enhance tech solutions for organizations like YWCA and City Of
+                Calgary. Seeking new opportunities in Full Stack, Front End, and
+                Back End Development. Let's connect and build together!
+              </p>
             </div>
           </div>
         </div>

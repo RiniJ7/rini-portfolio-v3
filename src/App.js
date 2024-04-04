@@ -1,11 +1,7 @@
-import React, { Component } from "react";
-import Navbar from "./components/Navbar";
 import About from "./components/About";
-import Resume from "./components/Resume";
-import Portfolio from "./components/Portfolio";
-import Testimonials from "./components/Testimonials";
 import ContactUs from "./components/ContactUs";
 import Footer from "./components/Footer";
+import Projects from "./components/Projects";
 // import resumeData from "./resumeData";
 import "./App.css";
 
@@ -19,10 +15,8 @@ function App() {
       <Sidenav />
       <Main />
       <Experience />
+      <Projects />
       <About />
-      <Portfolio />
-      {/* Add education here */}
-      <Testimonials />
       <ContactUs />
       <Footer />
 

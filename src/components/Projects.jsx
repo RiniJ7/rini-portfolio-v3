@@ -3,7 +3,7 @@ import ProjectItem from "./ProjectItem";
 import ProjectHead from "./ProjectHead";
 import starfriends from '../assets/StarFriends.png';
 import weatherAPI from '../assets/weatherAPI.png';
-
+import calculator from '../assets/calculator.png';
 
 const Projects = () => {
   return (
@@ -24,14 +24,14 @@ const Projects = () => {
         {/* Weather API */}
         <ProjectItem
         img={weatherAPI}
-          title="Realtime pandemic dashboard using web scrapping data"
+          title="This weather app uses the OpenWeather API for location-based weather searches."
           projgithub="https://weather-app-api-fawn.vercel.app/"
         />
-        {/* prisma */}
+        {/* Digital calculator */}
         <ProjectItem
-        //   img={prisma}
-          title="Turbo monorepo project with ORMs and data migrations strategies"
-          projgithub="https://github.com/yanliu1111/monorepo-docker-fullstack-app"
+         img={calculator}
+          title="This is a simple digital calculator application built using React, HTML5, CSS, and Javascript."
+          projgithub="https://calculator-omega-eight-85.vercel.app/"
         />
         {/* inventory */}
         <ProjectItem

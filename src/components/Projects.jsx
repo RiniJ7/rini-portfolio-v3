@@ -1,6 +1,7 @@
 import React from "react";
 import ProjectItem from "./ProjectItem";
 import ProjectHead from "./ProjectHead";
+import starfriends from '../assets/StarFriends.png';
 
 
 const Projects = () => {
@@ -15,9 +16,9 @@ const Projects = () => {
       <div className="grid sm:grid-cols-2 gap-12">
         {/* php */}
         <ProjectItem
-        //   img={phpproj}
-          title="E-commerce web with PHP and MySQL"
-          projgithub="https://github.com/yanliu1111/php-tutorial/tree/main/14_product_crud/03_mvc"
+        img={starfriends}
+          title="Star Friends : Displaying the Star Wars characters. The information is extracted from Star Wars API"
+          projgithub="https://github.com/RiniJ7/starfriends"
         />
         {/* echarts */}
         <ProjectItem

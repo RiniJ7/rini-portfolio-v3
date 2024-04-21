@@ -4,6 +4,8 @@ import ProjectHead from "./ProjectHead";
 import starfriends from '../assets/StarFriends.png';
 import weatherAPI from '../assets/weatherAPI.png';
 import calculator from '../assets/calculator.png';
+import tictactoe from '../assets/tictactoe.png';
+import starwarsreactquery from '../assets/starwarsreactquery.png';
 
 const Projects = () => {
   return (
@@ -33,17 +35,17 @@ const Projects = () => {
           title="This is a simple digital calculator application built using React, HTML5, CSS, and Javascript."
           projgithub="https://calculator-omega-eight-85.vercel.app/"
         />
-        {/* inventory */}
+        {/* Tic Tac Toe */}
         <ProjectItem
-        //   img={inventory}
-          title="Inventory and Payment App & Microservices"
-          projgithub="https://github.com/yanliu1111/microservices-fastapi-fullStack-app"
+         img={tictactoe}
+          title="Welcome to Tic Tac Toe with React! This project uses ReactJS, HTML, CSS, and Node.js for a fun game experience."
+          projgithub="https://tic-tac-toe-nu-umber.vercel.app/"
         />
-        {/* embeddings */}
+        {/* Starwars with react query */}
         <ProjectItem
-        //   img={embeddings}
-          title="ChatGPT API Embeddings Supabase"
-          projgithub="https://github.com/yanliu1111/ChatGPT-API-embeddings-Supabase"
+        img={starwarsreactquery}
+          title="Star Wars with React Query: Explore characters and planets from the Star Wars API with a user-friendly interface."
+          projgithub="https://starwars-with-react-query-12dofntue-rinij7s-projects.vercel.app/"
         />
         {/* flaskrestapi */}
         <ProjectItem

@@ -2,6 +2,7 @@ import React from "react";
 import ProjectItem from "./ProjectItem";
 import ProjectHead from "./ProjectHead";
 import starfriends from '../assets/StarFriends.png';
+import weatherAPI from '../assets/weatherAPI.png';
 
 
 const Projects = () => {
@@ -14,17 +15,17 @@ const Projects = () => {
         <ProjectHead />
       </div>
       <div className="grid sm:grid-cols-2 gap-12">
-        {/* php */}
+        {/* starwars API */}
         <ProjectItem
         img={starfriends}
           title="Star Friends : Displaying the Star Wars characters. The information is extracted from Star Wars API"
           projgithub="https://github.com/RiniJ7/starfriends"
         />
-        {/* echarts */}
+        {/* Weather API */}
         <ProjectItem
-        //   img={echarts}
+        img={weatherAPI}
           title="Realtime pandemic dashboard using web scrapping data"
-          projgithub="https://github.com/yanliu1111/dashboard-flask-echarts"
+          projgithub="https://weather-app-api-fawn.vercel.app/"
         />
         {/* prisma */}
         <ProjectItem

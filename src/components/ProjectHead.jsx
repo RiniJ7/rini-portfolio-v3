@@ -29,7 +29,7 @@ const ProjectHead = () => {
               <ul className="list-disc">
                 <li>Deliver solutions that excite customers </li>
                 <li>Use software to solve non-software problems </li>
-                <li>Create and design with passion</li>
+                <li>Create and design products with passion</li>
               </ul>
             </article>
           </div>

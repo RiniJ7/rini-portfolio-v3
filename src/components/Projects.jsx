@@ -6,6 +6,9 @@ import weatherAPI from '../assets/weatherAPI.png';
 import calculator from '../assets/calculator.png';
 import tictactoe from '../assets/tictactoe.png';
 import starwarsreactquery from '../assets/starwarsreactquery.png';
+import immigranttoolbox from '../assets/immigranttoolbox.png';
+
+
 
 const Projects = () => {
   return (
@@ -47,12 +50,12 @@ const Projects = () => {
           title="Star Wars with React Query: Explore characters and planets from the Star Wars API with a user-friendly interface."
           projgithub="https://starwars-with-react-query-12dofntue-rinij7s-projects.vercel.app/"
         />
-        {/* flaskrestapi */}
+        {/* Immigrant Toolbox */}
         <ProjectItem
-        //   img={flaskrestapi}
-          title="Build a REST API with Flask"
-          projgithub="https://github.com/yanliu1111/flask-rest-api-project"
-          projlink="https://flask-rest-api-project-rmrw.onrender.com/"
+         img={immigranttoolbox}
+          title="An AI powered website that connects immigrants with relevant government programs"
+          projgithub="https://github.com/Promade-com-co/immigrant-toolboxImmigrantT"
+          projlink="http://99.79.39.31/"
         />
  
       

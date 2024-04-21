@@ -16,10 +16,10 @@ const Projects = () => {
       <h1 className="text-4xl font-bold text-center text-[#001b5e]">
         Projects
       </h1>
-      <div>
+      <div className="mt-12">
         <ProjectHead />
       </div>
-      <div className="grid sm:grid-cols-2 gap-12">
+      <div className="grid sm:grid-cols-2 gap-12 mt-12">
         {/* starwars API */}
         <ProjectItem
         img={starfriends}

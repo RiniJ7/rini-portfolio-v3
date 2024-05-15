@@ -14,8 +14,8 @@ function App() {
 <>
       <Sidenav />
       <Main />
-      <Experience />
       <Projects />
+      <Experience />
       <About />
       <ContactUs />
       <Footer />

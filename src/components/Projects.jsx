@@ -20,6 +20,22 @@ const Projects = () => {
         <ProjectHead />
       </div>
       <div className="grid sm:grid-cols-2 gap-12 mt-12">
+
+ {/* Immigrant Toolbox */}
+ <ProjectItem
+         img={immigranttoolbox}
+          title="An AI powered website that connects immigrants with relevant government programs"
+          projgithub="https://github.com/Promade-com-co/immigrant-toolboxImmigrantT"
+          projlink="http://99.79.39.31/"
+        />
+   {/* Starwars with react query */}
+   <ProjectItem
+        img={starwarsreactquery}
+          title="Star Wars with React Query: Explore characters and planets from the Star Wars API with a user-friendly interface."
+          projgithub="https://starwars-with-react-query-12dofntue-rinij7s-projects.vercel.app/"
+        />
+       
+
         {/* starwars API */}
         <ProjectItem
         img={starfriends}
@@ -44,20 +60,7 @@ const Projects = () => {
           title="Welcome to Tic Tac Toe with React! This project uses ReactJS, HTML, CSS, and Node.js for a fun game experience."
           projgithub="https://tic-tac-toe-nu-umber.vercel.app/"
         />
-        {/* Starwars with react query */}
-        <ProjectItem
-        img={starwarsreactquery}
-          title="Star Wars with React Query: Explore characters and planets from the Star Wars API with a user-friendly interface."
-          projgithub="https://starwars-with-react-query-12dofntue-rinij7s-projects.vercel.app/"
-        />
-        {/* Immigrant Toolbox */}
-        <ProjectItem
-         img={immigranttoolbox}
-          title="An AI powered website that connects immigrants with relevant government programs"
-          projgithub="https://github.com/Promade-com-co/immigrant-toolboxImmigrantT"
-          projlink="http://99.79.39.31/"
-        />
- 
+      
       
       </div>
     </div>

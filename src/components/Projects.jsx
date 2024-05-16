@@ -57,7 +57,7 @@ const Projects = () => {
         {/* Tic Tac Toe */}
         <ProjectItem
          img={tictactoe}
-          title="Welcome to Tic Tac Toe with React! This project uses ReactJS, HTML, CSS, and Node.js for a game experience."
+          title="Tic Tac Toe game uses ReactJS, HTML, CSS, and Node.js for a game experience."
           projgithub="https://tic-tac-toe-nu-umber.vercel.app/"
         />
       

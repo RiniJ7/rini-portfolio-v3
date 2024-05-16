@@ -27,45 +27,55 @@ const Projects = () => {
           title="An AI powered website that connects immigrants with relevant government programs"
           // projgithub="https://github.com/Promade-com-co/immigrant-toolboxImmigrantT"
           projlink="http://99.79.39.31/"
+          description="AI Powered app for Immigrants"
         />
+      
    {/* Starwars with react query */}
    <ProjectItem
         img={starwarsreactquery}
           title="Star Wars with React Query: Explore characters and planets from the Star Wars API."
           projgithub="https://github.com/RiniJ7/starwars-with-react-query"
           projlink="https://starwars-with-react-query-12dofntue-rinij7s-projects.vercel.app/"
+          description="Characters display using react query from Starwars API"
         />
        
-
+     
         {/* starwars API */}
         <ProjectItem
         img={starfriends}
           title="This project displays the Star Wars characters. The information is extracted from Star Wars API"
           projgithub="https://github.com/RiniJ7/starfriends"
           projlink="https://starfriends.vercel.app/"
+          description="Starwars API information display"
         />
+           
         {/* Weather API */}
         <ProjectItem
         img={weatherAPI}
           title="This weather app uses the OpenWeather API for location-based weather searches."
           projgithub="https://github.com/RiniJ7/weather-app-api"
           projlink="https://weather-app-api-fawn.vercel.app/"
+          description="Weather app using the OpenWeather API"
         />
+         
         {/* Digital calculator */}
         <ProjectItem
          img={calculator}
           title="This is a simple digital calculator application built using React, HTML5, CSS, and Javascript."
           projgithub="https://github.com/RiniJ7/calculator"
           projlink="https://calculator-omega-eight-85.vercel.app/"
+          description="Digital Calculator"
         />
+          
         {/* Tic Tac Toe */}
         <ProjectItem
          img={tictactoe}
           title="Tic Tac Toe game uses ReactJS, HTML, CSS, and Node.js for a game experience."
           projgithub="https://github.com/RiniJ7/tic-tac-toe"
           projlink="https://tic-tac-toe-nu-umber.vercel.app/"
+          description="Tic Tac Toe Game"
         />
-      
+        
       
       </div>
     </div>

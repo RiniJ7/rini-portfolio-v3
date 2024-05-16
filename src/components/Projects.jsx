@@ -31,7 +31,7 @@ const Projects = () => {
    {/* Starwars with react query */}
    <ProjectItem
         img={starwarsreactquery}
-          title="Star Wars with React Query: Explore characters and planets from the Star Wars API with a user-friendly interface."
+          title="Star Wars with React Query: Explore characters and planets from the Star Wars API."
           projgithub="https://starwars-with-react-query-12dofntue-rinij7s-projects.vercel.app/"
         />
        
@@ -57,7 +57,7 @@ const Projects = () => {
         {/* Tic Tac Toe */}
         <ProjectItem
          img={tictactoe}
-          title="Welcome to Tic Tac Toe with React! This project uses ReactJS, HTML, CSS, and Node.js for a fun game experience."
+          title="Welcome to Tic Tac Toe with React! This project uses ReactJS, HTML, CSS, and Node.js for a game experience."
           projgithub="https://tic-tac-toe-nu-umber.vercel.app/"
         />
       

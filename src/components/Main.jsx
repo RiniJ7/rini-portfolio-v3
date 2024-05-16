@@ -69,7 +69,7 @@ const Main = () => {
               <p className="text-base sm:text-lg md:text-xl lg:text-xl sm:pb-4 md:pb-4 lg:pb-6">
 
 I am a Frontend developer with working understanding of Full Stack development. I am proficient in React.js, Javascript, Node.js , Express.js.
-I am certified in Google UX design certification. I am passionate about building equitable web product. Lts'z connect and build together!
+I am certified in Google UX design certification. I am passionate about building equitable web product. Let's connect and build together!
 .
 
               </p>

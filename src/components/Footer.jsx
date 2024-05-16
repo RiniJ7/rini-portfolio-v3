@@ -2,7 +2,11 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div>Made with react. Rini Joy. 2024</div>
+    <div className="flex justify-center items-center h-16 bg-gray-200">
+      
+     <div> Made with React.Rini Joy. &copy; 2024 </div>
+      
+      </div>
   )
 }
 

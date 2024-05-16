@@ -24,6 +24,8 @@ const ProjectItem = ({ img, title, projgithub, projlink }) => {
           <a
             className="text-white font-bold hover:scale-105 transition-all duration-300"
             href={projgithub}
+            target="_blank"
+            rel="noopener noreferrer"
           >
             <AiFillGithub size={32} />
           </a>
@@ -32,6 +34,8 @@ const ProjectItem = ({ img, title, projgithub, projlink }) => {
             <a
               className=" text-white font-bold hover:scale-105 transition-all duration-300"
               href={projlink}
+              target="_blank"
+              rel="noopener noreferrer"
             >
               <RiPagesLine size={32} />
             </a>

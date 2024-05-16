@@ -4,7 +4,7 @@ import ExperienceComponent from "./ExperienceComponent";
 const data = [
   {
     year: "2024",
-    title: "Software Developer, ReSkill Calgary",
+    title: "Software Developer, ReSkill, Calgary",
     duration: "February 2024 - May 2024",
     details: (
       <div>
@@ -19,7 +19,7 @@ const data = [
   },
   {
     year: "2023",
-    title: "Software Developer, New Idea Machine",
+    title: "Software Developer, New Idea Machine, Calgary",
     duration: "October 2023 - January 2024",
     details: (
       <div>
@@ -38,7 +38,7 @@ const data = [
   },
   {
     year: "2022",
-    title: "UX Researcher/ Website Developer (Volunteering), IncluCity",
+    title: "UX Researcher/ Website Developer (Volunteering), IncluCity, Calgary",
     duration: "December 2022 - Present",
     details: (
       <div>
@@ -85,7 +85,7 @@ const data = [
   // },
   {
     year: "2019",
-    title: "Wholesale Manager, The Midwife and the Baker",
+    title: "Wholesale Manager, The Midwife and the Baker, California",
     duration: "February 2019 - August 2019",
     details: (
       <div>
@@ -99,7 +99,7 @@ const data = [
   },
   {
     year: "2013",
-    title: "Assistant Manager Finance, ITC Hotels",
+    title: "Assistant Manager Finance, The Luxury Collection by Marriott, India",
     duration: "May 2013 - December 2017",
     details: (
       <div>
@@ -113,7 +113,7 @@ const data = [
   },
   {
     year: "2012",
-    title: "Management Trainee, ITC Hotels",
+    title: "Management Trainee, The Luxury Collection by Marriott, India",
     duration: "May 2012 - May 2013",
     details: (
       <div>
@@ -123,16 +123,16 @@ const data = [
       </div>
     ),
   },
-  {
-    year: "2011",
-    title: "Management Intern, General Optics Asia Limited",
-    duration: "March 2011 - May 2011",
-    details: (
-      <div>
-        -Implemented competitive pricing for precision lenses used in defense and aerospace using Activity-based costing.
-      </div>
-    ),
-  },
+  // {
+  //   year: "2011",
+  //   title: "Management Intern, General Optics Asia Limited",
+  //   duration: "March 2011 - May 2011",
+  //   details: (
+  //     <div>
+  //       -Implemented competitive pricing for precision lenses used in defense and aerospace using Activity-based costing.
+  //     </div>
+  //   ),
+  // },
 ];
 
 const Experience = () => {

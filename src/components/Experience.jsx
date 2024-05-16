@@ -98,9 +98,9 @@ const data = [
     ),
   },
   {
-    year: "2013",
+    year: "2012",
     title: "Assistant Manager Finance, The Luxury Collection by Marriott, India",
-    duration: "May 2013 - December 2017",
+    duration: "May 2012 - December 2017",
     details: (
       <div>
         -Applied analytical skills to optimize menu costing and pricing
@@ -111,18 +111,18 @@ const data = [
       </div>
     ),
   },
-  {
-    year: "2012",
-    title: "Management Trainee, The Luxury Collection by Marriott, India",
-    duration: "May 2012 - May 2013",
-    details: (
-      <div>
-        -Received tailored training in procurement, cost control, and financial oversight for hotel operations. 
-        <br/>
-        -Acquired skills across departments to optimize efficiency and expenses in hospitality.
-      </div>
-    ),
-  },
+  // {
+  //   year: "2012",
+  //   title: "Management Trainee, The Luxury Collection by Marriott, India",
+  //   duration: "May 2012 - May 2013",
+  //   details: (
+  //     <div>
+  //       -Received tailored training in procurement, cost control, and financial oversight for hotel operations. 
+  //       <br/>
+  //       -Acquired skills across departments to optimize efficiency and expenses in hospitality.
+  //     </div>
+  //   ),
+  // },
   // {
   //   year: "2011",
   //   title: "Management Intern, General Optics Asia Limited",

@@ -20,7 +20,7 @@ const data = [
   {
     year: "2023",
     title: "Software Developer, New Idea Machine",
-    duration: "October 2023 - Present",
+    duration: "October 2023 - January 2024",
     details: (
       <div>
         -Collaborated with fully-remote cross-functional teams to Empathize,
@@ -69,20 +69,20 @@ const data = [
       </div>
     ),
   },
-  {
-    year: "2020",
-    title: "Kitchen Operations, Milestones Grill & Bar",
-    duration: "July 2020 - February 2023",
-    details: (
-      <div>
-        -Implemented data-driven demand management, optimizing stock levels and
-        reducing excess inventory.
-        <br />
-        -Ensured strict quality standards and provided leadership to new team
-        members, fostering ongoing learning and knowledge transfer.
-      </div>
-    ),
-  },
+  // {
+  //   year: "2020",
+  //   title: "Kitchen Operations, Milestones Grill & Bar",
+  //   duration: "July 2020 - February 2023",
+  //   details: (
+  //     <div>
+  //       -Implemented data-driven demand management, optimizing stock levels and
+  //       reducing excess inventory.
+  //       <br />
+  //       -Ensured strict quality standards and provided leadership to new team
+  //       members, fostering ongoing learning and knowledge transfer.
+  //     </div>
+  //   ),
+  // },
   {
     year: "2019",
     title: "Wholesale Manager, The Midwife and the Baker",

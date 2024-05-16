@@ -70,7 +70,7 @@ const Main = () => {
 
 I am a Frontend developer with working understanding of Full Stack development. I am proficient in React.js, Javascript, Node.js , Express.js.
 I am certified in Google UX design certification. I am passionate about building equitable web product. Let's connect and build together!
-.
+
 
               </p>
             </div>

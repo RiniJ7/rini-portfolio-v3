@@ -28,8 +28,7 @@ const Main = () => {
                   2000, // Waits 2s
                   "User Experience Designer", // Deletes 'One' and types 'Two'
                   2000, // Waits 2s
-                  "Front End Developer", // Deletes 'One' and types 'Two'
-                  2000, // Waits 2s
+                  
                 ]}
                 wrapper="div"
                 cursor={true}

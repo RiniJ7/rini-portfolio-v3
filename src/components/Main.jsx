@@ -68,8 +68,8 @@ const Main = () => {
             <div className="mt-4 flex justify-between pt-6 w-full text-white-500">
               <p className="text-base sm:text-lg md:text-xl lg:text-xl sm:pb-4 md:pb-4 lg:pb-6">
 
-I am a Frontend developer with working understanding of Full Stack development. I am proficient in React.js, Javascript, Node.js , Express.js.
-I am certified in Google UX design certification. I am passionate about building equitable web product. <br /> 
+              I am a Frontend developer with working understanding of Full Stack development. I am proficient in React.js, Javascript, Node.js, Express.js.
+              I have training in UX design. I am passionate about building equitable web products. <br /> 
 <a href="https://www.linkedin.com/in/rini-joy-5957a437/" target="_blank" rel="noopener noreferrer">
 <strong>Let's connect and build together!</strong>
 </a>

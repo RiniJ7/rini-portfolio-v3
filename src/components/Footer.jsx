@@ -2,9 +2,9 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div className="flex justify-center items-center h-16 bg-gray-200">
+    <div className="flex justify-center items-center h-0 bg-gray-200">
          <footer
-    className="bg-neutral-200 text-center text-white dark:bg-neutral-600 dark:text-neutral-200">
+    className="bg-gray-200 text-center text-white dark:bg-neutral-600 dark:text-neutral-200">
     <div className="container p-6">
       <div className="grid gap-4 md:grid-cols-3 lg:grid-cols-6">
         <div className="mb-6 lg:mb-0">

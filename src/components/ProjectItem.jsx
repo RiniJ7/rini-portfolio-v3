@@ -4,7 +4,7 @@ import { RiPagesLine } from "react-icons/ri";
 
 const ProjectItem = ({ img, title, projgithub, projlink, description }) => {
   return (
-    <div className="relative flex flex-col items-center justify-center h-auto w-full shadow-xl bg-gray-400 rounded-xl group">
+    <div className="relative flex flex-col items-center justify-center h-auto w-full shadow-md bg-gray-400 rounded-xl group">
       <img
         src={img}
         alt={title}

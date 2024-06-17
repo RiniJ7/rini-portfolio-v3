@@ -70,9 +70,11 @@ const Main = () => {
 
               I am a Frontend developer with working understanding of Full Stack development. I am proficient in React.js, Javascript, Node.js, Express.js.
               I have training in UX design. I am passionate about building equitable web products. <br /> 
+
+<strong>
 <a href="https://www.linkedin.com/in/rini-joy-5957a437/" target="_blank" rel="noopener noreferrer">
-<strong>Let's connect and build together!</strong>
-</a>
+  Let's connect </a> </strong> and build together!
+
 
               </p>
             </div>

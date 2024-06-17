@@ -17,7 +17,9 @@ const About = () => {
         <h1 className="py-4 text-4xl font-bold text-center text-[#001b5e]">About Me</h1>
         <p className="text-base sm:text-lg md:text-xl lg:text-xl sm:pb-4 md:pb-4 lg:pb-6">
 
-When I'm not coding, you'll find me practice dancing, hiking, or creating art. Exploring new places and creative pursuits keep my mind fresh and inspired.
+
+
+Hello! When I'm not deep into coding, you'll probably catch me practicing dance moves, exploring hiking trails, or getting lost in an art project. I love discovering new places and diving into creative pursuits—they keep my mind fresh and my spirit inspired.
 
         </p>
         {/* <p className="text-base sm:text-lg md:text-xl lg:text-xl sm:pb-4 md:pb-4 lg:pb-6">

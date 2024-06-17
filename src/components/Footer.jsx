@@ -8,43 +8,43 @@ const Footer = () => {
           <div className="grid gap-10 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6">
             <div className="mb-6">
               <img
-                src="https://tecdn.b-cdn.net/img/new/fluid/city/113.webp"
-                className="w-full rounded-md shadow-lg"
+                src="./img/1.jpg"
+                className="w-full h-32 object-cover rounded-md shadow-lg"
                 alt="image1"
               />
             </div>
             <div className="mb-6 lg:mb-0">
               <img
-                src="https://tecdn.b-cdn.net/img/new/fluid/city/111.webp"
-                className="w-full rounded-md shadow-lg"
+                src="./img/2.jpg"
+                className="w-full h-32 object-cover rounded-md shadow-lg"
                 alt="image2"
               />
             </div>
             <div className="mb-6 lg:mb-0">
               <img
-                src="https://tecdn.b-cdn.net/img/new/fluid/city/112.webp"
-                className="w-full rounded-md shadow-lg"
+                src="./img/3.jpg"
+                className="w-full h-32 object-cover rounded-md shadow-lg"
                 alt="image3"
               />
             </div>
             <div className="mb-6 lg:mb-0">
               <img
-                src="https://tecdn.b-cdn.net/img/new/fluid/city/114.webp"
-                className="w-full rounded-md shadow-lg"
+                src="./img/4.jpg"
+                className="w-full h-32 object-cover rounded-md shadow-lg"
                 alt="image4"
               />
             </div>
             <div className="mb-6 lg:mb-0">
               <img
-                src="https://tecdn.b-cdn.net/img/new/fluid/city/115.webp"
-                className="w-full rounded-md shadow-lg"
+                src="./img/5.jpg"
+                className="w-full h-32 object-cover rounded-md shadow-lg"
                 alt="image5"
               />
             </div>
             <div className="mb-6 lg:mb-0">
               <img
-                src="https://tecdn.b-cdn.net/img/new/fluid/city/116.webp"
-                className="w-full rounded-md shadow-lg"
+                src="./img/6.jpg"
+                className="w-full h-32 object-cover rounded-md shadow-lg"
                 alt="image6"
               />
             </div>

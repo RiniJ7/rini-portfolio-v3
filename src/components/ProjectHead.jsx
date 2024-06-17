@@ -5,7 +5,7 @@ const ProjectHead = () => {
     <div className="rounded-div my-2 ">
       <div className="grid sm:grid-cols-2 gap-12">
         <div>
-          <div className="flex justify-center items-center rounded-3xl shadow-lg bg-gray-100 shadow-gray-400 m-2 cursor-pointer hover:scale-110 ease-in duration-200">
+          <div className="flex justify-center items-center rounded-3xl shadow-lg bg-gray-100 shadow-gray-400 m-2 cursor-pointer">
             <article className="p-4 m-4">
               <h4 className="text-xl font-bold text-center text-[#001b5e]">
                 What I Believe
@@ -20,7 +20,7 @@ const ProjectHead = () => {
           </div>
         </div>
         <div>
-          <div className="flex justify-center items-center  rounded-3xl shadow-lg bg-gray-100 shadow-gray-400 m-2 cursor-pointer hover:scale-110 ease-in duration-200">
+          <div className="flex justify-center items-center  rounded-3xl shadow-lg bg-gray-100 shadow-gray-400 m-2 cursor-pointer">
             <article className="p-4 m-4">
               <h4 className="text-xl font-bold text-center text-[#001b5e]">
                 What I Do

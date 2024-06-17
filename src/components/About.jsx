@@ -8,7 +8,7 @@ const About = () => {
       <img 
       src="./img/about-me.jpeg" 
       alt="About Me" 
- className="w-8 h-8 rounded-full"
+ className="w-4 h-4 sm:w-16 sm:h-6 md:w-8 md:h-4 lg:w-4 lg:h-4 "
       />
     </div>
     <div className="hero--section--content--box about--section--box">

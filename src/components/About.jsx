@@ -23,7 +23,7 @@ const About = () => {
       <div className="hero--section--content">
         {/* <p className="section--title">About</p> */}
         <h1 className="py-4 text-4xl font-bold text-center text-[#001b5e]">About Me</h1>
-        <p className="text-base sm:text-lg md:text-xl lg:text-xl sm:pb-4 md:pb-4 lg:pb-6  text-gray-800">
+        <p className="text-base sm:text-lg md:text-xl lg:text-xl sm:pb-4 md:pb-4 lg:pb-8  text-gray-800 text-justify">
 
 
 

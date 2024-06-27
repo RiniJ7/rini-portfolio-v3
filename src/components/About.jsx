@@ -31,8 +31,8 @@ Hello! When I'm not deep into coding, you'll probably catch me practicing dance 
 
 
     <div className="flex justify-center items-center p-6">
-          <div className="grid gap-10 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6">
-            <div className="mb-6">
+          <div className="grid gap-10 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6 xl:grid-cols-6 xxl:grid-cols-6">
+            <div className="mb-6 lg:mb-0">
               <img
                 src="./img/1.jpg"
                 className="w-full h-32 object-cover rounded-md shadow-lg"

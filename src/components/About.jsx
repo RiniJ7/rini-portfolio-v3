@@ -6,7 +6,7 @@ const About = () => {
     <section id="about" className="about--section mb-8 sm:mb-16 md:mb-24">
     <div className="about--section--img sm:mr-8 lg:mr-16">
       <img 
-      src="./img/about-me.jpeg" 
+      src="./img/aboutMe.png" 
       alt="About Me" 
  className="w-4 h-4 sm:w-16 sm:h-6 md:w-8 md:h-4 lg:w-4 lg:h-4 "
       />

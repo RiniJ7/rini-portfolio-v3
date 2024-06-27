@@ -16,7 +16,7 @@ const About = () => {
       <div className="hero--section--content">
         {/* <p className="section--title">About</p> */}
         <h1 className="py-4 text-4xl font-bold text-center text-[#001b5e]">About Me</h1>
-        <p className="text-base sm:text-lg md:text-xl lg:text-xl sm:pb-4 md:pb-4 lg:pb-6">
+        <p className="text-base sm:text-lg md:text-xl lg:text-xl sm:pb-4 md:pb-4 lg:pb-6  text-gray-800">
 
 
 
@@ -26,57 +26,65 @@ Hello! When I'm not deep into coding, you'll probably catch me practicing dance 
         {/* <p className="text-base sm:text-lg md:text-xl lg:text-xl sm:pb-4 md:pb-4 lg:pb-6">
           Still thinking what to write here
         </p> */}
-      </div>
+   
+
+
+
+      <div className="flex justify-center items-center p-6">
+  <div className="flex flex-wrap justify-center gap-6 lg:gap-10">
+    <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/6 xl:w-1/6">
+      <img
+        src="./img/1.jpg"
+        className="w-full h-32 object-cover rounded-md shadow-lg"
+        alt="image1"
+      />
+    </div>
+    <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/6 xl:w-1/6">
+      <img
+        src="./img/2.jpg"
+        className="w-full h-32 object-cover rounded-md shadow-lg"
+        alt="image2"
+      />
+    </div>
+    <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/6 xl:w-1/6">
+      <img
+        src="./img/3.jpg"
+        className="w-full h-32 object-cover rounded-md shadow-lg"
+        alt="image3"
+      />
+    </div>
+    <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/6 xl:w-1/6">
+      <img
+        src="./img/4.jpg"
+        className="w-full h-32 object-cover rounded-md shadow-lg"
+        alt="image4"
+      />
+    </div>
+    <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/6 xl:w-1/6">
+      <img
+        src="./img/5.jpg"
+        className="w-full h-32 object-cover rounded-md shadow-lg"
+        alt="image5"
+      />
+    </div>
+    <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/6 xl:w-1/6">
+      <img
+        src="./img/6.jpg"
+        className="w-full h-32 object-cover rounded-md shadow-lg"
+        alt="image6"
+      />
+    </div>
+  </div>
+</div>
+
+
+
+
+</div>
     </div>
 
 
-    <div className="flex justify-center items-center p-6">
-          <div className="grid gap-10 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6 xl:grid-cols-6 xxl:grid-cols-6">
-            <div className="mb-6 lg:mb-0">
-              <img
-                src="./img/1.jpg"
-                className="w-full h-32 object-cover rounded-md shadow-lg"
-                alt="image1"
-              />
-            </div>
-            <div className="mb-6 lg:mb-0">
-              <img
-                src="./img/2.jpg"
-                className="w-full h-32 object-cover rounded-md shadow-lg"
-                alt="image2"
-              />
-            </div>
-            <div className="mb-6 lg:mb-0">
-              <img
-                src="./img/3.jpg"
-                className="w-full h-32 object-cover rounded-md shadow-lg"
-                alt="image3"
-              />
-            </div>
-            <div className="mb-6 lg:mb-0">
-              <img
-                src="./img/4.jpg"
-                className="w-full h-32 object-cover rounded-md shadow-lg"
-                alt="image4"
-              />
-            </div>
-            <div className="mb-6 lg:mb-0">
-              <img
-                src="./img/5.jpg"
-                className="w-full h-32 object-cover rounded-md shadow-lg"
-                alt="image5"
-              />
-            </div>
-            <div className="mb-6 lg:mb-0">
-              <img
-                src="./img/6.jpg"
-                className="w-full h-32 object-cover rounded-md shadow-lg"
-                alt="image6"
-              />
-            </div>
-          </div>
-        </div>
-
+ 
 
 
 

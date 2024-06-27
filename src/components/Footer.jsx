@@ -4,7 +4,10 @@ const Footer = () => {
   return (
     <div className="flex justify-center items-center bg-gray-200 py-4 sm:py-6 md:py-8">
       <footer className="bg-gray-200 text-center text-white dark:text-neutral-200 w-full">
-        <div className="flex justify-center items-center p-6">
+
+
+
+        {/* <div className="flex justify-center items-center p-6">
           <div className="grid gap-10 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6">
             <div className="mb-6">
               <img
@@ -49,7 +52,10 @@ const Footer = () => {
               />
             </div>
           </div>
-        </div>
+        </div> */}
+
+
+
 
         {/* <!--Copyright section--> */}
         <div className="bg-neutral-300 p-4 text-center text-neutral-700 dark:bg-neutral-700 dark:text-neutral-200 mt-4">

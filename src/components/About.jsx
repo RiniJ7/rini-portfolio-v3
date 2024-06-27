@@ -3,6 +3,7 @@ import "../App.css";
 
 const About = () => {
   return (
+    <>
     <section id="about" className="about--section mb-8 sm:mb-16 md:mb-24">
     <div className="about--section--img sm:mr-8 lg:mr-16">
       <img 
@@ -27,7 +28,67 @@ Hello! When I'm not deep into coding, you'll probably catch me practicing dance 
         </p> */}
       </div>
     </div>
+
+
+    <div className="flex justify-center items-center p-6">
+          <div className="grid gap-10 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6">
+            <div className="mb-6">
+              <img
+                src="./img/1.jpg"
+                className="w-full h-32 object-cover rounded-md shadow-lg"
+                alt="image1"
+              />
+            </div>
+            <div className="mb-6 lg:mb-0">
+              <img
+                src="./img/2.jpg"
+                className="w-full h-32 object-cover rounded-md shadow-lg"
+                alt="image2"
+              />
+            </div>
+            <div className="mb-6 lg:mb-0">
+              <img
+                src="./img/3.jpg"
+                className="w-full h-32 object-cover rounded-md shadow-lg"
+                alt="image3"
+              />
+            </div>
+            <div className="mb-6 lg:mb-0">
+              <img
+                src="./img/4.jpg"
+                className="w-full h-32 object-cover rounded-md shadow-lg"
+                alt="image4"
+              />
+            </div>
+            <div className="mb-6 lg:mb-0">
+              <img
+                src="./img/5.jpg"
+                className="w-full h-32 object-cover rounded-md shadow-lg"
+                alt="image5"
+              />
+            </div>
+            <div className="mb-6 lg:mb-0">
+              <img
+                src="./img/6.jpg"
+                className="w-full h-32 object-cover rounded-md shadow-lg"
+                alt="image6"
+              />
+            </div>
+          </div>
+        </div>
+
+
+
+
+
+
+
   </section>
+
+
+
+
+  </>
   )
 }
 

@@ -33,10 +33,10 @@ const Projects = () => {
    {/* Starwars with react query */}
    <ProjectItem
         img={starwarsreactquery}
-          title="Star Wars with React Query: Explore characters and planets from the Star Wars API."
+          title="Explore Star Wars characters and planets using React Query."
           projgithub="https://github.com/RiniJ7/starwars-with-react-query"
           projlink="https://starwars-with-react-query-12dofntue-rinij7s-projects.vercel.app/"
-          description="Displays Star Wars characters with React Query."
+          description="Shows Star Wars characters with React Query"
         />
        
      
@@ -52,7 +52,7 @@ const Projects = () => {
         {/* Weather API */}
         <ProjectItem
         img={weatherAPI}
-          title="This weather app uses the OpenWeather API for location-based weather searches."
+          title="This weather app uses the OpenWeather API for location-based forecasts."
           projgithub="https://github.com/RiniJ7/weather-app-api"
           projlink="https://weather-app-api-fawn.vercel.app/"
           description="Weather app using the OpenWeather API"
@@ -61,7 +61,7 @@ const Projects = () => {
         {/* Digital calculator */}
         <ProjectItem
          img={calculator}
-          title="This is a simple digital calculator application built using React, HTML5, CSS, and Javascript."
+          title="This is a digital calculator built with React, HTML5, CSS, and JavaScript."
           projgithub="https://github.com/RiniJ7/calculator"
           projlink="https://calculator-omega-eight-85.vercel.app/"
           description="Digital Calculator"
@@ -70,7 +70,7 @@ const Projects = () => {
         {/* Tic Tac Toe */}
         <ProjectItem
          img={tictactoe}
-          title="Tic Tac Toe game uses ReactJS, HTML, CSS, and Node.js for a game experience."
+          title="Tic Tac Toe game built with ReactJS, HTML, CSS, and Node.js"
           projgithub="https://github.com/RiniJ7/tic-tac-toe"
           projlink="https://tic-tac-toe-nu-umber.vercel.app/"
           description="Tic Tac Toe Game"

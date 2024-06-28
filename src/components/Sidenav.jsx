@@ -3,7 +3,7 @@ import {
   AiOutlineMenu,
   AiOutlineHome,
   AiOutlineProject,
-  AiOutlineMail,
+  // AiOutlineMail,
 } from "react-icons/ai";
 import { BsPerson } from "react-icons/bs";
 import { GrProjects } from "react-icons/gr";
@@ -53,9 +53,9 @@ const Sidenav = () => {
             -100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-200"
           >
             <BsPerson size={20} />
-            <span className="pl-4">Resume</span>
+            <span className="pl-4">About</span>
           </a>
-          <a
+          {/* <a
             onClick={handleNav}
             href="#contact"
             className="w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray
@@ -63,7 +63,7 @@ const Sidenav = () => {
           >
             <AiOutlineMail size={20} />
             <span className="pl-4">Contact</span>
-          </a>
+          </a> */}
         </div>
       ) : (
         " "

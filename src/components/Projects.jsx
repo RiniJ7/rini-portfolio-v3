@@ -24,7 +24,7 @@ const Projects = () => {
  {/* Immigrant Toolbox */}
  <ProjectItem
          img={immigranttoolbox}
-          title="An AI powered website that connects immigrants with relevant government programs"
+          title="An AI powered website that connects immigrants & government programs"
           // projgithub="https://github.com/Promade-com-co/immigrant-toolboxImmigrantT"
           projlink="http://99.79.39.31/"
           description="AI Powered app for Immigrants"
@@ -36,14 +36,14 @@ const Projects = () => {
           title="Star Wars with React Query: Explore characters and planets from the Star Wars API."
           projgithub="https://github.com/RiniJ7/starwars-with-react-query"
           projlink="https://starwars-with-react-query-12dofntue-rinij7s-projects.vercel.app/"
-          description="Characters display using react query from Starwars API"
+          description="Displays Star Wars characters with React Query."
         />
        
      
         {/* starwars API */}
         <ProjectItem
         img={starfriends}
-          title="This project displays the Star Wars characters. The information is extracted from Star Wars API"
+          title="This project displays Star Wars characters using data from the Star Wars API."
           projgithub="https://github.com/RiniJ7/starfriends"
           projlink="https://starfriends.vercel.app/"
           description="Starwars API information display"

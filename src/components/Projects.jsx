@@ -25,7 +25,7 @@ const Projects = () => {
  <ProjectItem
          img={immigranttoolbox}
           title="An AI powered website that connects immigrants & government programs"
-          // projgithub="https://github.com/Promade-com-co/immigrant-toolboxImmigrantT"
+          projgithub="https://github.com/Promade-com-co/immigrant-toolboxImmigrantT"
           projlink="http://99.79.39.31/"
           description="AI Powered app for Immigrants"
         />

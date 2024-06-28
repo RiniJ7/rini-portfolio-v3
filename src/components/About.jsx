@@ -28,7 +28,7 @@ const About = () => {
 
         <div className="hero--section--content--box about--section--box">
           <div className="hero--section--content">
-            <h1 className="py-4 text-4xl font-bold text-center text-[#001b5e]">About Me</h1>
+            <h1 className="py-4 text-4xl font-bold text-center text-[#001b5e]">Hello!</h1>
             <p className="text-base sm:text-lg md:text-xl lg:text-xl sm:pb-4 md:pb-4 lg:pb-8 text-gray-800 text-justify">
               Hello! When I'm not deep into coding, you'll probably catch me practicing dance moves, exploring hiking trails, or getting lost in an art project. I love discovering new places and diving into creative pursuits—they keep my mind fresh and my spirit inspired.
             </p>

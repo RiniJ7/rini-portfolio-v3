@@ -30,6 +30,7 @@ https://rini-portfolio-v3-8cvey4rub-rinij7s-projects.vercel.app/
 **Development and Deployment:**
 - **Development**: The project is developed using React.js and Tailwind CSS, utilizing Vite.js as the build tool for efficient development.
 - **Deployment**: The portfolio is deployed using Vercel, ensuring fast and reliable hosting.
+- **The website is available at **: wwww.rinijoy.com
 
 **Screenshots:**
 

@@ -8,6 +8,7 @@ const data = [
     duration: "February 2024 - Present",
     details: (
       <div>
+        -Remotely leading a team of developers to develop phase 2 of the project.
         - Worked on the home page, navigation and collaborated with UX designer
         to actualize design concepts.
         <br />

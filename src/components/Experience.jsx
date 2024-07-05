@@ -4,8 +4,8 @@ import ExperienceComponent from "./ExperienceComponent";
 const data = [
   {
     year: "2024",
-    title: "Software Developer, ReSkill, Calgary",
-    duration: "February 2024 - May 2024",
+    title: "Full Stack Developer, Promade Innovation",
+    duration: "February 2024 - Present",
     details: (
       <div>
         - Worked on the home page, navigation and collaborated with UX designer

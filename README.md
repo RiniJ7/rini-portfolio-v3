@@ -4,7 +4,7 @@ This is the third version of my portfolio, showcasing my skills and projects. Th
 
 **Portfolio Demo:**
 The edployes website can be seen here :
-https://rini-portfolio-v3-8cvey4rub-rinij7s-projects.vercel.app/
+[https://rini-portfolio-v3-8cvey4rub-rinij7s-projects.vercel.app/](https://www.rinijoy.com/)
 
 **Main Technologies:**
 - **Vite.js**

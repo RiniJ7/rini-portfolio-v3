@@ -35,12 +35,12 @@ const About = () => {
 
             <div className="flex justify-center items-center p-6">
             <div className="flex flex-wrap justify-center gap-6 lg:gap-10">
-                {['1.jpg','2.jpg','3.jpg','4.jpg','5.jpg','6.jpg'].map((image, index) => (
+                {['1.jpg','2.jpg','3.jpg','4.jpg','5.jpg'].map((image, index) => (
                   <div key={index} className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4">
                     <img
                       src={`./img/${image}`}
                       className="w-full h-32 object-cover rounded-md shadow-lg cursor-pointer"
-                      alt={`Creative work ${index}`}
+                      alt={`Creative work ${index + 1}`}
                       onClick={() => openModal(`./img/${image}`)}
                     />
                   </div>

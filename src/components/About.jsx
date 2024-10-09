@@ -40,7 +40,7 @@ const About = () => {
                     <img
                       src={`./img/${image}`}
                       className="w-full h-32 object-cover rounded-md shadow-lg cursor-pointer"
-                      alt={`Creative work ${index + 1}`}
+                      alt={`Creative work ${index}`}
                       onClick={() => openModal(`./img/${image}`)}
                     />
                   </div>

@@ -68,8 +68,7 @@ const Main = () => {
             <div className="mt-4 flex justify-between pt-6 w-full text-white-500">
               <p className="text-base sm:text-lg md:text-xl lg:text-xl sm:pb-4 md:pb-4 lg:pb-6">
 
-              I am a Full Stack development. I am proficient in React.js, Javascript, Node.js, Express.js.
-              I have training in UX design. I am passionate about building equitable web products. <br /> 
+             I'm a Full Stack Developer with expertise in React.js, JavaScript, Node.js, and Express.js, complemented by UX design training. I'm dedicated to creating inclusive and accessible web applications that serve all users equitably. <br /> 
 
 <strong>
 <a href="https://www.linkedin.com/in/rini-joy-5957a437/" target="_blank" rel="noopener noreferrer">
